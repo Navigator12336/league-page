@@ -12,7 +12,7 @@ export const homepageText = `
   <p>In astounding commitment to building a dynasty franchise, many of the managers have begun to have kids and groom the next generation of managers to take over their teams. The mini managers are being heavily indoctrinated into the fantasy lifestyle and will be expected to take an active role as soon as they can succesfully type out a coherent trade offer.</p>
   <p>The Champion manager walks away with the ultimate prize of bragging rights and sending obnoxious texts to the rest of the league for the next year</p>
   <p>See you next season!</p>
-  <style>
+   <style>
 .table_component {
     overflow: auto;
     width: 100%;
