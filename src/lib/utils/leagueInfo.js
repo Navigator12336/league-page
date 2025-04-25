@@ -107,7 +107,7 @@ export const managers = [
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
     },
     "tradingScale": 10, // 1 - 10
-    },
+  },
   ]
   
   
