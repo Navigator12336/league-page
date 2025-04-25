@@ -12,6 +12,174 @@ export const homepageText = `
   <p>In astounding commitment to building a dynasty franchise, many of the managers have begun to have kids and groom the next generation of managers to take over their teams. The mini managers are being heavily indoctrinated into the fantasy lifestyle and will be expected to take an active role as soon as they can succesfully type out a coherent trade offer.</p>
   <p>The Champion manager walks away with the ultimate prize of bragging rights and sending obnoxious texts to the rest of the league for the next year</p>
   <p>See you next season!</p>
+  <style>
+.table_component {
+    overflow: auto;
+    width: 100%;
+}
+
+.table_component table {
+    border: 1px solid #dededf;
+    height: 100%;
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    border-spacing: 1px;
+    text-align: left;
+}
+
+.table_component caption {
+    caption-side: top;
+    text-align: left;
+}
+
+.table_component th {
+    border: 1px solid #dededf;
+    background-color: #eceff1;
+    color: #000000;
+    padding: 5px;
+}
+
+.table_component td {
+    border: 1px solid #dededf;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 5px;
+}
+</style>
+<div class="table_component" role="region" tabindex="0">
+<table>
+    <caption>Dynasty Data 4-24.csv</caption>
+    <thead>
+        <tr>
+            <th>TOTAL VALUE OF ROSTER</th>
+            <th>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>RANK</td>
+            <td>Team Name</td>
+            <td>QB</td>
+            <td>RB</td>
+            <td>WR</td>
+            <td>TE</td>
+            <td>Grand Total </td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Team Brian Coleman</td>
+            <td>82</td>
+            <td>236</td>
+            <td>342</td>
+            <td>12</td>
+            <td>672 </td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Team Adam Frank</td>
+            <td>122</td>
+            <td>133</td>
+            <td>286</td>
+            <td>83</td>
+            <td>624 </td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Team Drew Golin</td>
+            <td>116</td>
+            <td>140</td>
+            <td>258</td>
+            <td>56</td>
+            <td>570 </td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Team Matt Vrabel</td>
+            <td>65</td>
+            <td>181</td>
+            <td>263</td>
+            <td>31</td>
+            <td>540 </td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Team Matt Dabros</td>
+            <td>36</td>
+            <td>178</td>
+            <td>274</td>
+            <td>38</td>
+            <td>526 </td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Team Josh Cohen</td>
+            <td>57</td>
+            <td>111</td>
+            <td>311</td>
+            <td>41</td>
+            <td>520 </td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Team Matt Forsythe</td>
+            <td>71</td>
+            <td>110</td>
+            <td>266</td>
+            <td>71</td>
+            <td>518 </td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Team Dillon Forsythe</td>
+            <td>69</td>
+            <td>36</td>
+            <td>325</td>
+            <td>57</td>
+            <td>487 </td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>Team Tom Murphy</td>
+            <td>103</td>
+            <td>171</td>
+            <td>164</td>
+            <td>46</td>
+            <td>484 </td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>Team Brian Charles</td>
+            <td>70</td>
+            <td>182</td>
+            <td>121</td>
+            <td>79</td>
+            <td>452 </td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>Team Marquis Parham</td>
+            <td>45</td>
+            <td>109</td>
+            <td>207</td>
+            <td>84</td>
+            <td>445 </td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>Team Kyle Groark</td>
+            <td>59</td>
+            <td>189</td>
+            <td>136</td>
+            <td>32</td>
+            <td>416 </td>
+        </tr>
+        <tr></tr>
+    </tbody>
+</table>
+<div style="margin-top:8px">Made with <a href="https://www.htmltables.io/" target="_blank">HTML Tables</a></div>
+</div>
 `;
 
 /*   STEP 3   */
