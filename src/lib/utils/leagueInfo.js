@@ -24,90 +24,90 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 // To omit an optional field, set it's value to null
 
 export const managers = [
-    {
+  {
       "roster": "603016107019796480",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "MV1720",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      },
-      "tradingScale": 10, // 1 - 1 
     },
-    {
+    "tradingScale": 10, // 1 - 1 
+  },
+  {
       "roster": "729080162989273088",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "mattdabros515",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      },
-      "tradingScale": 10, // 1 - 10
     },
-    {
+    "tradingScale": 10, // 1 - 10
+  },
+  {
       "roster": "738103364558168064",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "J0shC0",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      },
-      "tradingScale": 10, // 1 - 10
     },
+    "tradingScale": 10, // 1 - 10
+  },
   {
       "roster": "733792570177679360",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "brianncoleman",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      },
-      "tradingScale": 10, // 1 - 10
     },
-   {
+    "tradingScale": 10, // 1 - 10
+  },
+  {
       "roster": "852684944533745664",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "kgroark19",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      },
-      "tradingScale": 10, // 1 - 10
     },
+    "tradingScale": 10, // 1 - 10
+  },
   {
       "roster": "988355151272431616",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "adamf2325",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      },
-      "tradingScale": 10, // 1 - 10
     },
+    "tradingScale": 10, // 1 - 10
+  },
   {
       "roster": "993262146573492224",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "DForsythe23",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      },
-      "tradingScale": 10, // 1 - 10
     },
+    "tradingScale": 10, // 1 - 10
+  },
   {
       "roster": "1051947486413275136",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Drewgolin",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      },
-      "tradingScale": 10, // 1 - 10
     },
+    "tradingScale": 10, // 1 - 10
+  },
   {
       "roster": "1127089281584988160",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Dubbledore",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      },
-      "tradingScale": 10, // 1 - 10
     },
+    "tradingScale": 10, // 1 - 10
+  },
   {
       "roster": "1127126134237310976",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "bcharles1602",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      },
-      "tradingScale": 10, // 1 - 10
     },
-   {
+    "tradingScale": 10, // 1 - 10
+  },
+  {
       "roster": "1127332051121807360",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "MP2424",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      },
-      "tradingScale": 10, // 1 - 10
     },
-   {
+    "tradingScale": 10, // 1 - 10
+  },
+  {
       "roster": "1127419202379304960",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Tjmurphy725",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      },
-      "tradingScale": 10, // 1 - 10
     },
+    "tradingScale": 10, // 1 - 10
+  },
   ]
   
   
