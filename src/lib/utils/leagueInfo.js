@@ -25,73 +25,85 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
     {
-      "roster": "738103364558168064",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "738103364558168064",
       "name": "J0shC0",
       },
       "tradingScale": 10, // 1 - 10
     },
     {
-      "roster": "729080162989273088",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "729080162989273088",
       "name": "mattdabros515",
       "tradingScale": 10, // 1 - 10
     },
     {
-      "roster": "603016107019796480",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "603016107019796480",
       "name": "MV1720",
       },
       "tradingScale": 10, // 1 - 10
      
     },
     {
-      "roster": "733792570177679360",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "733792570177679360",
       "name": "brianncoleman",
       },
       "tradingScale": 10, // 1 - 10
     },
     {
-      "roster": "852684944533745664",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "852684944533745664",
       "name": "kgroark19",
       },
       "tradingScale": 10, // 1 - 10
     },
     {
-      "roster": "988355151272431616",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "988355151272431616",
       "name": "adamf2325",
       },
       "tradingScale": 10, // 1 - 10
     },
     {
-      "roster": "993262146573492224",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "993262146573492224",
       "name": "DForsythe23",
       },
       "tradingScale": 10, // 1 - 10
     },
     {
-      "roster": "1051947486413275136",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "1051947486413275136",
       "name": "Drewgolin",
       },
       "tradingScale": 10, // 1 - 10
     },
     {
-      "roster": "1127089281584988160",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "1127089281584988160",
       "name": "Dubbledore",
       },
       "tradingScale": 10, // 1 - 10
     },
     {
-      "roster": "1127126134237310976",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "1127126134237310976",
       "name": "bcharles1602",
       },
       "tradingScale": 10, // 1 - 10
     },
     {
-      "roster": "1127332051121807360",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "1127332051121807360",
       "name": "MP2424",
       },
       "tradingScale": 10, // 1 - 10
     },
     {
-      "roster": "1127419202379304960",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "1127419202379304960",
       "name": "Tjmurphy725",
       },
       "tradingScale": 10, // 1 - 10
